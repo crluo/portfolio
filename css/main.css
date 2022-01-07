@@ -22,7 +22,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("/img/website-bg-bright.png");
+  background-image: url("https://crluo.github.io/portfolio/img/website-bg-bright.png");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
